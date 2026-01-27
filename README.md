@@ -23,8 +23,8 @@ the task:
 
 ## Codebase Organization
 
-This codebase is written entirely in python, and consists of the following
-directories:
+Our [codebase](https://github.com/jazlab/multi_object_memory_2025) is written
+entirely in python, and consists of the following directories:
 * `figures/`: This directory contains code to generate the figures in our paper.
 It contains one sub-directory for each figure, and Jupyter notebooks to produce
 specific plots.
@@ -48,7 +48,9 @@ details.
 
 ### Getting Started
 
-Download this repository by downloading it as a zip from GitHub or cloning using
+Navigate to our codebase: https://github.com/jazlab/multi_object_memory_2025
+
+Download that repository by downloading it as a zip from GitHub or cloning using
 git commands.
 
 Before running any code, we recommend using a virtual environment (e.g. using
