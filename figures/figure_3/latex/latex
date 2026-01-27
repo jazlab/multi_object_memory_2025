@@ -1,0 +1,31 @@
+% Latex code for Figure 3 in the paper
+
+% Panel A
+\lambda(n, k, t)\\
+\varphi\bigg(b(n, t) + \sum_{s=1}^{N_{slots}} f_{s, \sigma_k(s)}(n, t)\bigg)\\
+\sigma_k(s) \in \text{Obj}(k) + [\text{\textit{empty}}]\\
+\varphi\Big(b(n, t) + f_{\rho_k(t)}(n, t)\Big)\\
+\rho_k(t) \in \text{Obj}(k) + [\text{\textit{empty}}]\\
+\varphi\bigg(b(n, t) + \sum_{o \in \text{Obj}(k)}w_k(o) \cdot f_o(n, t)\bigg)\\
+0 \leq w_k(o) \leq 1\\
+
+% Panel B
+b + f_{\text{1}, \text{A}}\\
+b + f_{\text{1}, \text{B}}\\
+b + f_{\text{2}, \text{A}}\\
+b + f_{\text{2}, \text{B}}\\
+b\\
+b + f_{\text{A}}\\
+b + f_{\text{B}}\\
+
+% Panel C
+\sigma_k = \begin{cases}
+    \text{Slot 1} \to \text{Object A}\\
+    \text{Slot 2} \to \text{Object B}
+\end{cases}\\
+\rho_k(t)\\
+w_k(o)\\
+\text{A}\\
+\text{B}\\
+t\\
+empty\\

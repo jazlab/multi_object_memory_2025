@@ -1,0 +1,19 @@
+# Ignore caches
+**__pycache__/
+**.DS_Store
+
+# Ignore cache
+cache/*/
+cache_osf
+DANDI_API_KEY.txt
+
+# Ignore everything in the gitignore/
+gitignore
+
+# Ignore logs and specific files
+phys_modeling/training/logs
+phys_modeling/copy_to_openmind.sh
+phys_modeling/copy_from_openmind.sh
+cache/copy_cache_to_openmind.sh
+figures/figure_3/single_neuron_psths/*.ipynb
+figures_standalone

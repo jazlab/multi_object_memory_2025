@@ -1,0 +1,7 @@
+dandi >= 0.63.1
+seaborn >= 0.13.2
+scikit-learn >= 1.2.5
+absl-py >= 2.1.0
+torch >= 2.5.1
+moog-games >= 1.4
+moviepy

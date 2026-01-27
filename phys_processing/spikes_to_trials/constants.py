@@ -1,0 +1,4 @@
+"""Constants."""
+
+LEAD_IN_SECONDS = 0.2
+BIN_SIZE_SECONDS = 0.01
