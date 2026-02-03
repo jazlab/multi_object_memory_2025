@@ -4,7 +4,7 @@
 
 This webpage is the entrypoint for the code and data supporting the paper
 "Working Memory of Multi-Object Scenes in Primate Frontal Cortex" (Watters et
-al., 2025). This paper studies the neural mechanisms of multi-object working
+al., 2026). This paper studies the neural mechanisms of multi-object working
 memory in the primate brain. It involves neurophysiology data collected from
 monkeys trained on a working memory task and computational modeling to test
 hypotheses of neural mechanisms in that data.
@@ -131,22 +131,17 @@ Watters ([nwatters@mit.edu](mailto:nwatters@mit.edu)) or Mehrdad Jazayeri
 data is useful for your scientific goals and discuss any limitations or
 challenges that might arise.
 
-<!-- ## Reference
+## Reference
 
 If you use our data or code (or a derivative of our data or code) in your work,
 please cite it as follows:
 
-TODO(nwatters): Add citation. -->
-
-<!-- ```
-@article {Watters2024.11.06.622160,
-	author = {Watters, Nicholas and Buccino, Alessio P and Jazayeri, Mehrdad},
-	title = {MEDiCINe: Motion Correction for Neural Electrophysiology Recordings},
-	elocation-id = {2024.11.06.622160},
-	year = {2024},
-	doi = {10.1101/2024.11.06.622160},
-	URL = {https://www.biorxiv.org/content/10.1101/2024.11.06.622160},
-	eprint = {https://www.biorxiv.org/content/10.1101/2024.11.06.622160.full.pdf},
+@article {Watters2026.01.27.702062,
+	author = {Watters, Nicholas and Gabel, John and Tenenbaum, Joshua and Jazayeri, Mehrdad},
+	title = {Working Memory of Multi-Object Scenes in Primate Frontal Cortex},
+	elocation-id = {2026.01.27.702062},
+	year = {2026},
+	doi = {10.64898/2026.01.27.702062},
+	URL = {https://www.biorxiv.org/content/early/2026/01/30/2026.01.27.702062},
 	journal = {bioRxiv}
 }
-``` -->
