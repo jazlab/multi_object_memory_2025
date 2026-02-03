@@ -136,6 +136,7 @@ challenges that might arise.
 If you use our data or code (or a derivative of our data or code) in your work,
 please cite it as follows:
 
+```
 @article {Watters2026.01.27.702062,
 	author = {Watters, Nicholas and Gabel, John and Tenenbaum, Joshua and Jazayeri, Mehrdad},
 	title = {Working Memory of Multi-Object Scenes in Primate Frontal Cortex},
@@ -145,3 +146,4 @@ please cite it as follows:
 	URL = {https://www.biorxiv.org/content/early/2026/01/30/2026.01.27.702062},
 	journal = {bioRxiv}
 }
+```
